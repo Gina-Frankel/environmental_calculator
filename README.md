@@ -1,12 +1,60 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's hello-world starter
-</h1>
+
+# Steps
+
+## MVP - cotton
+
+### 1. Environmental calculator
+
+> As a child,
+> I want a header with the name of the website
+> So I know the name of the website
+
+### 2. Title, Image
+
+> As a child,
+> I want a title with the material, picture of the material and a picture of a t-shirt
+> So I know what material and industry I am to learn about
+
+### 3. Questions
+
+> As a child,
+> I want to be able to have guiding questions,
+> So I can think about the environmental impact of material
+
+### 4. Water - mathematical measurement
+
+> As a child,
+> I want to know the amount of water in Litres used to make one t-shirt in this material,
+> So I can think about the environmental impact of this material
+
+### 5. Environmental calculator
+
+> As a child,
+> I want to be able to convert the amount of water used to the amount of bathtubs this would fill and how long the water would last a person,
+> So I understand the water usage in meaningful terms
+
+---
+
+## Next Iteration
+
+> As a child,
+> I want to be able to choose between different materials,
+> So I can compare different alternatives
+
+> As a child,
+> I want to be able to see more content about why ,
+> So children can compare different alternatives
+
+---
+
+To be planned later
+
+> As a child,
+> I want to be able to measure other factors,
+> So children can compare different alternatives
+
+# Boiler plate README
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
