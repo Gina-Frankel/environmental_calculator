@@ -14,8 +14,14 @@
 ### 2. Title, Image
 
 > As a child,
-> I want a title with the material, picture of the material and a picture of a t-shirt
+> I want a title with the material, picture of the material and a picture of a t-shirt made in that material
 > So I know what material and industry I am to learn about
+
+- [x] Title
+      AC "Cotton"
+
+- [ ]Picture of cotton
+- [ ]Picture of cotton t-shirt
 
 ### 3. Questions
 

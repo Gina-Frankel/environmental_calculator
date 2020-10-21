@@ -1,9 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Electrolize&display=swap");
 
 .header {
-  font-family: "Fjalla One", sans-serif;
   background-color: cornflowerblue;
   h1 {
     font-size: 2rem;
+    font-family: "Electrolize", sans-serif;
   }
+}
+
+h1 {
+  font-family: "Fjalla One", sans-serif;
 }
