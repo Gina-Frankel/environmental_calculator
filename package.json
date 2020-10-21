@@ -14,10 +14,12 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "gatsby": "^2.24.79",
     "gatsby-plugin-sass": "^2.3.19",
     "node-sass": "^4.14.1",
     "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "^16.14.0"
   },
   "devDependencies": {
