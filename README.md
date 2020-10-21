@@ -4,11 +4,12 @@
 
 ## MVP - cotton
 
-### 1. Environmental calculator
+### 1. Header
 
 > As a child,
 > I want a header with the name of the website
 > So I know the name of the website
+> [X]
 
 ### 2. Title, Image
 
