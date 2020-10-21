@@ -11,7 +11,7 @@
 > So I know the name of the website
 > [X]
 
-### 2. Title, Image
+### 2 Landing Page: Title, Image
 
 > As a child,
 > I want a title with the material, picture of the material and a picture of a t-shirt made in that material
@@ -20,8 +20,8 @@
 - [x] Title
       AC "Cotton"
 
-- [ ]Picture of cotton
-- [ ]Picture of cotton t-shirt
+- [x]Picture of cotton
+- [x]Picture of cotton t-shirt
 
 ### 3. Questions
 
